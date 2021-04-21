@@ -1,5 +1,6 @@
 # GO-Port-Listener
-Port listener in Go. Allows listening on multiple TCP ports simultaneously
+Port listener in Go. Allows listening on multiple TCP ports simultaneously.
+Typical use: segmentation testing, etc.
 
 Use: 
 
