@@ -12,9 +12,9 @@ Responds with HTTP 200
 
 ![image](https://user-images.githubusercontent.com/40667621/115566940-b8866700-a288-11eb-85db-fd1e0c8df664.png)
 
-![image](https://user-images.githubusercontent.com/40667621/115579954-a7435780-a294-11eb-95f0-f98a1a1ebcf6.png)
+![image](https://user-images.githubusercontent.com/40667621/115580533-2afd4400-a295-11eb-9ec9-df52d674cde3.png)
 
-![image](https://user-images.githubusercontent.com/40667621/115580290-f38e9780-a294-11eb-9ff7-bb9dded89367.png)
+![image](https://user-images.githubusercontent.com/40667621/115580460-16b94700-a295-11eb-99ec-857350e769f4.png)
 
 
 
