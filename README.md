@@ -1,12 +1,14 @@
 # GO-Port-Listener
 Port listener in Go. Allows listening on multiple TCP ports simultaneously.
+
 Typical use: segmentation testing, etc.
 
 Use: 
 
 #> go run listen.go
 
-Responds with HTTP 200
+Responds with HTTP 200, IP addresses, ports, and timestamp:
+
 "2021-04-21 11:27:26 - server: 192.168.0.156:2999 - client: 192.168.0.156:34452"
 
 
