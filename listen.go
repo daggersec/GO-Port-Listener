@@ -54,7 +54,7 @@ func main() {
 	fmt.Print("|_____|_____|  |__|  |___|_| |_|    |_____|_|___|_| |___|_|_|___|_|  \n\n")
 	fmt.Print("GO Port Listener\n")
 	fmt.Print("https://github.com/daggersec/GO-Port-Listener/\n")
-	fmt.Print("Ports below 1024 will require admin/sudo priveleges\n")
+	fmt.Print("Ports below 1024 will require admin/sudo privileges\n")
 
 	// get port numbers
 	fmt.Print("Enter First port: ")
