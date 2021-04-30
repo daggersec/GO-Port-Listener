@@ -1,4 +1,4 @@
-// Will Listen on a spcified range of ports with HTTP service
+// Will Listen on a specified range of ports with HTTP service
 // on connect will echo time, server ip:port, client ip:port
 // to compile into windows or linux binary:
 // 	env GOOS=target-OS GOARCH=target-architecture go build package-import-path
@@ -53,6 +53,7 @@ func main() {
 	fmt.Print("|  |  |  |  |  |   __| . |  _|  _|  |  |__| |_ -|  _| -_|   | -_|  _|\n")
 	fmt.Print("|_____|_____|  |__|  |___|_| |_|    |_____|_|___|_| |___|_|_|___|_|  \n\n")
 	fmt.Print("GO Port Listener\n")
+	fmt.Print("https://github.com/daggersec/GO-Port-Listener/\n")
 	fmt.Print("Ports below 1024 will require admin/sudo priveleges\n")
 
 	// get port numbers
